@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, & CSS**
 
-- 📫 How to reach me **ameersf0@proton.me**
+- 📫 How to reach me **ameersf0@gmail.com**
 
 - ⚡ Fun fact **I can actually speak Japanese**
 
