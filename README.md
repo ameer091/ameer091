@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
-- 💬 Ask me about **JavaScript, HTML, & CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS, & React**
 
 - 📫 How to reach me **ameersf0@gmail.com**
 
